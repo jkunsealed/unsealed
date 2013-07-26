@@ -1,0 +1,4 @@
+unsealed
+========
+
+Catalogue for texts
